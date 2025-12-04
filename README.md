@@ -1,5 +1,5 @@
 <div class="Name" align="center">
-  <h1>
+  <h1 alt="Top">
     <picture>
       <img width="519" height="300" alt="Name" src="./media/Name.png" />
     </picture>

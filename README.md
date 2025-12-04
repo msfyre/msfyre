@@ -1,1 +1,28 @@
-hi
+<div class="Name" align="center">
+  <h1>
+    <img width="519" height="300" alt="Name" src="https://github.com/user-attachments/assets/590d3cb9-7cfd-4d13-8aa7-e1a4f2f74665" />
+  </h1>
+</div>
+
+<div class="About" align="center">
+  <h1>
+    <img width="375" height="75" alt="About" src="https://github.com/user-attachments/assets/053e551c-89ed-4101-b066-6c4a15de5508" />
+  </h1>
+  <p>
+    I'm a 16 year old student in the Science, Technology, Engineering, and Mathematics (STEM) curriculum residing in the hellhole known as the country of the Philippines (unfortunately 🥀🥀🥀).
+  </p>
+  <p>
+    I have started programming at the peak of the COVID-19 pandemic in the year 2020 when the whole world goes to a full lockdown because of it.
+    The first ever language I have programmed in was in Scratch in an account before this account was made.
+    If you are willing to look for my projects in it, then...
+  </p>
+  <p>
+    Too bad! I forgot the account password of it.
+    <b>BUT!</b>
+    Some of them were published in GameJolt!
+    <br>
+    <a href="https://gamejolt.com/@BlazingKuda/games" title="My old GameJolt account (I lost the password for it too)">
+      Check it here!
+    </a>
+  </p>
+</div>

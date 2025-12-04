@@ -1,12 +1,12 @@
 <div class="Name" align="center">
   <h1>
-    <img width="519" height="300" alt="Name" src="https://github.com/user-attachments/assets/590d3cb9-7cfd-4d13-8aa7-e1a4f2f74665" />
+    <img width="519" height="300" alt="Name" src="./media/Name.png" />
   </h1>
 </div>
 
 <div class="About" align="center">
   <h1>
-    <img width="375" height="75" alt="About" src="https://github.com/user-attachments/assets/053e551c-89ed-4101-b066-6c4a15de5508" />
+    <img width="375" height="75" alt="About" src="./media/About.png" />
   </h1>
   <p>
     I'm a 16 year old student in the Science, Technology, Engineering, and Mathematics (STEM) curriculum residing in the hellhole known as the country of the Philippines (unfortunately 🥀🥀🥀).

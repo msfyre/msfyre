@@ -18,6 +18,7 @@
   <p>
     I have started programming at the peak of the COVID-19 pandemic in the year 2020 when the whole world goes to a full lockdown because of it.
     The first ever language I have programmed in was in Scratch in an account before this account was made.
+    <br>
     If you are willing to look for my projects in it, then...
   </p>
   <p>

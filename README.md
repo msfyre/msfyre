@@ -1,12 +1,16 @@
 <div class="Name" align="center">
   <h1>
-    <img width="519" height="300" alt="Name" src="./media/Name.png" />
+    <picture>
+      <img width="519" height="300" alt="Name" src="./media/Name.png" />
+    </picture>
   </h1>
 </div>
 
 <div class="About" align="center">
   <h1>
-    <img width="375" height="75" alt="About" src="./media/About.png" />
+    <picture>
+      <img width="375" height="75" alt="About" src="./media/About.png" />
+    </picture>
   </h1>
   <p>
     I'm a 16 year old student in the Science, Technology, Engineering, and Mathematics (STEM) curriculum residing in the hellhole known as the country of the Philippines (unfortunately 🥀🥀🥀).

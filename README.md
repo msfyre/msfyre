@@ -1,7 +1,7 @@
 <div class="Name" align="center">
   <h1>
     <picture>
-      <img width="60%" height="60%" alt="Name" src="./media/Name.png" />
+      <img width="67.5%" height="67.5%" alt="Name" src="./media/Name.png" />
     </picture>
   </h1>
 </div>

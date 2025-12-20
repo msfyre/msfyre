@@ -5,7 +5,6 @@
     </picture>
   </h1>
 </div>
-
 <div class="About" align="center">
   <h1>
     <picture>
@@ -29,5 +28,16 @@
     <a href="https://gamejolt.com/@BlazingKuda/games" title="My old GameJolt account (I lost the password for it too)">
       Check it here!
     </a>
+    <br>
+    <s>If you wanna play them, I recommend to not do so. Just because they're horrible (LOL)</s>
   </p>
+</div>
+
+<div class="Statistics" align="center">
+   <h1>
+    <i> How am I doing? </i>
+   </h1>
+   <img
+    src="https://github-readme-stats.vercel.app/api?username=msfyre&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+   /> 
 </div>
